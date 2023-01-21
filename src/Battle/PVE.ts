@@ -3,9 +3,9 @@ import Fighter, { SimpleFighter } from '../Fighter';
 import Battle from './Battle';
 
 class PVE extends Battle {
-  private _monster: [Fighter | SimpleFighter];
+  private _monster: SimpleFighter[];
 
-  constructor(player: Fighter, monster: [Fighter | SimpleFighter]) {
+  constructor(player: Fighter, monster: SimpleFighter[]) {
     super(player);
     this._monster = monster;
   }
