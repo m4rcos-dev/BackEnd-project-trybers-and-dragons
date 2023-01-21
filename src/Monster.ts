@@ -13,6 +13,10 @@ class Monster implements SimpleFighter {
     return this._lifePoints;
   }
 
+  public set lifePoints(newLife: number) {
+    this._lifePoints = newLife;
+  }
+
   public get strength(): number {
     return this._strength;
   }
