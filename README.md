@@ -1,3 +1,5 @@
+#### EN - English [(Versão em Português Brasil aqui)](https://github.com/m4rcos-dev/BackEnd-project-trybers-and-dragons/blob/main/README_pt-br.md)
+
 <h1 align="center">🎉 Welcome to my trybers and dragons project repository </h1>
 
 ![project_trybers_and_dragons](https://user-images.githubusercontent.com/104791582/215762786-64898841-d6b0-4ae2-96e4-bd4c49aa48dd.jpg)
