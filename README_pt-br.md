@@ -6,7 +6,7 @@
 
 
 <p>Projeto desenvolvido durante o módulo de back-end do curso de desenvolvimento web full-stack Trybe.</p>
-<p>Projeto utilizado para aplicar os prícipios da arquitetura SOLID e os princípios de POO em uma estrutrua de jogos de interpretação de papéis, mais conhecidos como jotos RPG (Role Playing Game)</p>
+<p>Projeto utilizado para aplicar os prícipios da arquitetura SOLID e os princípios de POO em uma estrutrua de jogos de interpretação de papéis, mais conhecidos como jogos RPG (Role Playing Game)</p>
 <p>Foi desenvolvidos cada classe e interface utilizando o contexto abaixo, respeitando o que cada raça e personagem tem de atributo e a lógica o que cada um pode fazer no campo de batalha utilizando seus métodos.</p>
 <hr/>
 <h2>🔨 Contexto</h2>
